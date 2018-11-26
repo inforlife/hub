@@ -30,6 +30,9 @@ navigation:
 - text: PROCESS
   url: http://inforlife.github.io/process/
   internal: false
+- text: QUALITY MANUAL
+  url: http://inforlife.github.io/quality/
+  internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
